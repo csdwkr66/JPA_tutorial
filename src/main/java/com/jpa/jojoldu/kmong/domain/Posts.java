@@ -26,4 +26,6 @@ public class Posts extends BaseTimeEntity{
 
     private String author;
 
+
+
 }
