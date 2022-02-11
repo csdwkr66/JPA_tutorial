@@ -29,6 +29,8 @@ public class PostRepositoryTest {
 //        ...
     }
 
+
+
     @Test
     public void BaseTimeEntity_등록 () {
         //given
